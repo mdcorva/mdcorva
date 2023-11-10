@@ -1,5 +1,4 @@
 # mdcorva.github.io
-### `npx fka`
 
 Hello, this is **María Dolores Corva** 👋
 
@@ -10,11 +9,6 @@ I like to **give talks** with the aim of promoting the dissemination of science 
 - Python 🐍
 - MATLAB 💻
 
-
+###
 - 🏹  [Curriculum vitae (**LinkedIn**)](https://www.linkedin.com/in/m-dolores-corva/)
 
-
-<details>
-  <summary>More...</summary>
-  <img src="https://github-readme-stats.vercel.app/api?username=f&show_icons=true&count_private=true&theme=dark" />
-</details>
